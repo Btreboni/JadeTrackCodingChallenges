@@ -11528,11 +11528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/JadeTrackCodingChallenge/BackEnd/GuessingGame/GuessingGame.csproj",
+      "projectUniqueName": "/Users/admin/JadeTrackCodingChallenge/JadeTrackCodingChallenges/BackEnd/GuessingGame/GuessingGame.csproj",
       "projectName": "GuessingGame",
-      "projectPath": "/Users/admin/JadeTrackCodingChallenge/BackEnd/GuessingGame/GuessingGame.csproj",
+      "projectPath": "/Users/admin/JadeTrackCodingChallenge/JadeTrackCodingChallenges/BackEnd/GuessingGame/GuessingGame.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/JadeTrackCodingChallenge/BackEnd/GuessingGame/obj",
+      "outputPath": "/Users/admin/JadeTrackCodingChallenge/JadeTrackCodingChallenges/BackEnd/GuessingGame/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
